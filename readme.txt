@@ -153,3 +153,8 @@
     notes: uses greensward skin by Whis as bullet
     tags: greensward, green, grenade, nadebullet, Chilli.*
     sha1: 33a0e9a1a2e9b30b18eca5ee5ebc460edb9c0e3e
+- 06/7z.png
+    author: Dev7z
+    notes:
+    tags:
+    sha1: cc32bd038ed801f0c0309212d0a02ee108cb2097
